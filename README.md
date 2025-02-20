@@ -1,4 +1,4 @@
-# Architecture.Lab 🏗️  
+# Architecture.Lab (Em Progresso) 🏗️  
 
 **Architecture.Lab** é um projeto laboratorial criado para estudar e comparar diferentes **arquiteturas de software**. Ele contém **mini projetos** independentes, cada um implementando uma abordagem arquitetural específica, permitindo aprendizado prático e aplicação de boas práticas.  
 
