@@ -1,0 +1,6 @@
+@EDA.Publisher_HostAddress = http://localhost:5041
+
+GET {{EDA.Publisher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
