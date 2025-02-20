@@ -6,16 +6,16 @@
 
 ### 🔹 DDD (Domain-Driven Design)  
 - Organização em camadas: **Domain, Application, Infrastructure**.  
-- Uso de **Entidades, Value Objects, Aggregates e Repositories**.  
+- Uso de **Entidades, Value Objects e Repositories**.  
 - Separação clara entre regras de negócio e implementação técnica.  
 
 ### 🔹 EDA (Event-Driven Architecture)  
 - Comunicação assíncrona via eventos.  
-- Uso de **Message Brokers** como RabbitMQ, Kafka, ou Azure Service Bus.  
+- Uso de **Message Brokers** como Azure Service Bus.  
 - Publishers e Consumers trabalhando de forma desacoplada.  
 
 ### 🔹 Serverless  
-- Uso de **Funções Serverless (AWS Lambda, Azure Functions)**.  
+- Uso de **Funções Serverless (Azure Functions)**.  
 - Escalabilidade automática e redução de custos com servidores.  
 - Ideal para tarefas sob demanda, como processamento de imagens e notificações.  
 
